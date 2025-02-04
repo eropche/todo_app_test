@@ -27,6 +27,8 @@ Start todo application
 
 3) docker exec -it todo_backend php artisan key:generate
 4) docker-compose up --build
+
+   
   This will start:
   Backend (Laravel) at http://localhost:8000
   Frontend (React) at http://localhost:5173
